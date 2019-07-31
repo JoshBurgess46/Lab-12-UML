@@ -6,9 +6,9 @@ namespace Lab_12_UML
 {
     class Student : Person
     {
-        string Program { get; set; }
-        int Year { get; set; }
-        double Fee { get; set; }
+        private string Program { get; set; }
+        private int Year { get; set; }
+        private double Fee { get; set; }
 
         public Student()
         {
