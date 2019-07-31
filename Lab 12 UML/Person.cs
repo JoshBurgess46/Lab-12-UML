@@ -11,7 +11,7 @@ namespace Lab_12_UML
 
         public Person()
         {
-            ;
+            
         }
         public Person(string name, string address)
         {

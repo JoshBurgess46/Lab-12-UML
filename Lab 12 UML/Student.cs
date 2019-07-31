@@ -12,7 +12,7 @@ namespace Lab_12_UML
 
         public Student()
         {
-            ;
+            
         }
 
         public Student(string program, int year, double fee, string name, string address) : base(name, address)

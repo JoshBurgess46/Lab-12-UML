@@ -11,7 +11,7 @@ namespace Lab_12_UML
 
         public Staff()
         {
-            ;
+            
         }
 
         public Staff(string school, double pay, string name, string address) : base(name, address)
